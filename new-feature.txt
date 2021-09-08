@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Tiger can fly!
 
 User1 changed Whale to Tiger
+=======
+Bird can fly!
+
+User2 changed Whale to Bird
+>>>>>>> feature
