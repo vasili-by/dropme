@@ -4,9 +4,9 @@ Git allows and encourages you to have multiple local branches that can be entire
 
 This means that you can do things like:
 
-Elephant can fly!
+Bird can fly!
 
-User2 changed Whale to Elephant
+User(main) changed Elephant to Bird
 
 
 Frictionless Context Switching. Create a branch to try out an idea, commit a few times, switch back to where you branched from, apply a patch, switch back to where you are experimenting, and merge it in.
